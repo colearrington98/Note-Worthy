@@ -7,7 +7,6 @@ const PORT = process.env.PORT || 3001; // This is the port that the server will 
 const app = express(); // This is the actual server
 
 // This is the middleware that will allow us to parse JSON and string or array data
-
 app.use(express.json());
 app.use(express.urlencoded({ extended: true })); 
 app.use(express.static('public'));
