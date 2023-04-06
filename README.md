@@ -1,5 +1,7 @@
 # Note-Worthy
 
+Deployed App - https://note-worthy1.herokuapp.com/
+
 A simple note-taking application for small business owners to organize their thoughts and keep track of tasks they need to complete.
 
 ![Screenshot 2023-04-05 195646](https://user-images.githubusercontent.com/119268105/230247324-213aeafc-631d-4966-a739-bdd6311560e7.png)
