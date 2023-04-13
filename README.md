@@ -27,7 +27,7 @@ A simple note-taking application for small business owners to organize their tho
 4. Start the development server.
 
 
-5. Open your browser and navigate to [http://localhost:3000](http://localhost:3000).
+5. Open your browser and navigate to [http://localhost:3001](http://localhost:3000).
 
 ## License
 
